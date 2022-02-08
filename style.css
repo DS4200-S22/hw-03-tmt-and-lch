@@ -12,4 +12,7 @@ body {
     width: 1000;
     border-style: solid;
   }
+.container1 {
+    justify-content: space-evenly;
+}
 
