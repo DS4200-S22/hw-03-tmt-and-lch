@@ -7,7 +7,9 @@ body {
     justify-content: space-evenly;
     flex-direction: column;
     gap: 30px 40px;
-    padding: 25px 50px
+    padding: 25px 50px;
+    text-align: justify;
+    width: 1000;
     
   }
 
