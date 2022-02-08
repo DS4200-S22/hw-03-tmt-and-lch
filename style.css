@@ -14,5 +14,6 @@ body {
   }
 .container1 {
     justify-content: space-evenly;
+    gap: 10px
 }
 
