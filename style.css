@@ -10,14 +10,13 @@ body {
     padding: 25px 50px;
     text-align: justify;
     width: 1000;
-    border: 12px solid;
+    border: 12px solid black;
   }
 
 .container1 {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    column-gap: 5px;
     align-items: center;
     align-content: center;
     margin: 100px;
