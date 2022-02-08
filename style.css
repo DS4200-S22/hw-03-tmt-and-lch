@@ -10,7 +10,7 @@ body {
     padding: 25px 50px;
     text-align: justify;
     width: 1000;
-    border-style: solid;
+    border: 12px solid;
   }
 
 .container1 {
