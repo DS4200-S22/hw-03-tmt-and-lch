@@ -22,4 +22,7 @@ body {
     align-content: center;
     margin: 100px;
 }
+.item {
+    border : 12px solid;   
+}
 
