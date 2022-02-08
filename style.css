@@ -13,7 +13,9 @@ body {
     border-style: solid;
   }
 .container1 {
+    display: flex;
     justify-content: space-evenly;
-    gap: 10px
+    flex-direction: row;
+    gap: 10px 10px
 }
 
