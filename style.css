@@ -12,7 +12,7 @@ body {
     width: 1000;
     border-style: solid;
   }
-  
+
 .container1 {
     display: flex;
     justify-content: space-evenly;
@@ -20,5 +20,7 @@ body {
     gap: 5px 5px;
     align-items: center;
     align-content: center;
+    position: relative;
+    left: 47px;
 }
 
