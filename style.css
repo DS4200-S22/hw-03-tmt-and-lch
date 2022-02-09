@@ -23,8 +23,8 @@ body {
     border : 12px solid black;   
 }
 
-ul {
-    display: table;
-    margin: 0 auto;
+.bulletpoint {
+    text-align: center;
+    list-style: inside;
   }
 
