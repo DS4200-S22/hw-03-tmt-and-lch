@@ -15,9 +15,10 @@ body {
     display: flex;
     justify-content: space-evenly;
     /* flex-direction: row wrap; */
-    align-items: center;
+    align-items: baseline;
     /* align-self: center; */
     /* position: relative; */
+
 }
 .item {
     border : 5px solid black;   
