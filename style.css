@@ -17,7 +17,7 @@ body {
     flex-direction: row;
     align-items: center;
     align-content: center;
-    margin: 10px;
+    margin-right: -4px;
 }
 .item {
     border : 12px solid black;   
