@@ -14,7 +14,7 @@ body {
 .container1 {
     display: flex;
     justify-content: space-evenly;
-    flex-direction: row wrap;
+    flex-direction: row;
     align-items: baseline;
     align-content: center;
     
