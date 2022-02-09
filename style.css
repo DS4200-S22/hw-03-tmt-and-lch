@@ -6,7 +6,7 @@ body {
     flex-flow: row wrap;
     justify-content: space-evenly;
     flex-direction: row wrap;
-    gap: 100px 40px;
+    gap: 30px 40px;
     padding: 25px 50px;
     text-align: justify;
   }
@@ -14,10 +14,10 @@ body {
 .container1 {
     display: flex;
     justify-content: space-evenly;
-    flex-direction: row;
+    flex-direction: row wrap;
     align-items: center;
     align-content: center;
-    margin-right: -4px;
+    
 }
 .item {
     border : 12px solid black;   
