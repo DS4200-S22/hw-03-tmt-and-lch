@@ -17,7 +17,7 @@ body {
     flex-direction: row wrap;
     align-items: stretch;
     align-content: center;
-    
+    position: relative;    
 }
 .item {
     border : 2px solid black;   
