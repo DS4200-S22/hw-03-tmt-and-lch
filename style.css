@@ -11,21 +11,20 @@ body {
     text-align: justify;
   }
 
+  .item {
+    border : 5px solid black;   
+}
+
 .container1 {
     display: flex;
     justify-content: space-evenly;
-    /* flex-direction: row wrap; */
     align-items: baseline;
-    /* align-self: center; */
-    /* position: relative; */
+}
 
-}
-.item {
-    border : 5px solid black;   
-}
 .my-rect{
     fill: rgb(202, 152, 197);
   }
+
   .my-circ{
     fill: rgb(243, 237, 51);
   }
@@ -33,9 +32,11 @@ body {
 .my-rect:hover {
     fill: rgb(9, 177, 228);
   }
+
   .my-circ:hover {
     fill: rgb(141, 16, 230);
   }
+  
 .bulletpoint{
     text-align: center;
     list-style: inside;
