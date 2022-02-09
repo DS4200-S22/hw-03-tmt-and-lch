@@ -6,7 +6,7 @@ body {
     flex-flow: row wrap;
     justify-content: space-evenly;
     flex-direction: row wrap;
-    gap: 100px 50px;
+    gap: 60px 50px;
     padding: 25px 50px;
     text-align: justify;
   }
@@ -14,13 +14,27 @@ body {
 .container1 {
     display: flex;
     justify-content: space-evenly;
-    flex-direction: row wrap;
+    /* flex-direction: row wrap; */
     align-items: center;
-    position: relative;    
+    /* align-self: center; */
+    /* position: relative; */
 }
 .item {
-    border : 2px solid black;   
+    border : 5px solid black;   
 }
+.my-rect{
+    fill: rgb(202, 152, 197);
+  }
+  .my-circ{
+    fill: rgb(243, 237, 51);
+  }
+
+.my-rect:hover {
+    fill: rgb(9, 177, 228);
+  }
+  .my-circ:hover {
+    fill: rgb(141, 16, 230);
+  }
 .bulletpoint{
     text-align: center;
     list-style: inside;
