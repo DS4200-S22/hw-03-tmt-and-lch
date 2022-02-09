@@ -6,7 +6,7 @@ body {
     flex-flow: row wrap;
     justify-content: space-evenly;
     flex-direction: row wrap;
-    gap: 30px 40px;
+    gap: 100px 50px;
     padding: 25px 50px;
     text-align: justify;
   }
