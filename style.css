@@ -15,8 +15,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row wrap;
-    align-items: stretch;
-    align-content: center;
+    align-items: center;
     position: relative;    
 }
 .item {
