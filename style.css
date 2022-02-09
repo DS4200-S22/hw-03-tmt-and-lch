@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row wrap;
-    align-items: center;
+    align-items: baseline;
     align-content: center;
     
 }
